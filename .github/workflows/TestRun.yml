@@ -1,6 +1,6 @@
 name : TestRun
 
-on : push
+on : demand
 
 jobs : 
   job1:
