@@ -1,6 +1,6 @@
 name : TestRun
 
-on : demand
+on : workflow_dispatch
 
 jobs : 
   job1:
